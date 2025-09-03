@@ -10,6 +10,7 @@
 ## 🎸 Hobbies  
 - Tocar **violão**, explorando diferentes estilos musicais;  
 - Jogar e testar **jogos de tabuleiro**, sempre em busca de novas estratégias e experiências.  
+- Jogos Mobile, gosto de jogos de mundo aberto
 
 ## 🚀 Objetivos  
 - Aprimorar minhas competências em **informática** e **programação**;  
