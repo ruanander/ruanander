@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ruan!  
 
-<!--
-**ruanander/ruanander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente estou estudando **Tecnologia da Informação** e desenvolvendo minhas habilidades na área de informática.  
 
-Here are some ideas to get you started:
+## 💻 Sobre mim  
+- Tenho interesse em **hardware, software e novas tecnologias**;  
+- Estou em constante aprendizado em **TI**, buscando sempre evoluir;  
+- Gosto de explorar soluções criativas e aprender coisas novas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎸 Hobbies  
+- Tocar **violão**, explorando diferentes estilos musicais;  
+- Jogar e testar **jogos de tabuleiro**, sempre em busca de novas estratégias e experiências.  
+
+## 🚀 Objetivos  
+- Aprimorar minhas competências em **informática** e **programação**;  
+- Contribuir em projetos no GitHub e colaborar em comunidades de tecnologia;  
+- Unir meu gosto por criatividade e lógica no desenvolvimento de soluções digitais.  
+
+---
+
+✨ "Aprendizado contínuo é a chave para transformar curiosidade em conhecimento."  
