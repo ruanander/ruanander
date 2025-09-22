@@ -1,6 +1,6 @@
-![.](banner .jpg)
-<h1 align="center"></h1>
-<h3 align="center">Subtitulo</h3>
+![](Banner.jpg)
+<h1 align="center">Olá, Seja Bem Vindo</h1>
+<h3 align="center">Cursante do Senac, Compartilho meus estudos e a pratica deles</h3>
 # 👋 Olá, eu sou o Ruan!  
 
 🎓 Atualmente estou estudando **Tecnologia da Informação** e desenvolvendo minhas habilidades na área de informática.  
