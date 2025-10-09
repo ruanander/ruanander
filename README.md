@@ -1,4 +1,4 @@
-![](Banner.jpg)
+![](pngtree-rointelligencebot-artificial--robot-blue-background-the-internet-image_16132.jpg)
 <h1 align="center">Olá, Seja Bem Vindo</h1>
 <h3 align="center">Cursante do Senac, Compartilho meus estudos e a pratica deles</h3>
 # 👋 Olá, eu sou o Ruan!  
