@@ -4,11 +4,12 @@
 # 👋 Olá, eu sou o Ruan!  
 
 ---
-<p aling="center">
+<p align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/ruanander?style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/ruanander/ruanander?style=plastic)
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/ruanander/ruanander?style=plastic">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ruanander?style=plastic">
 
+<hr>
 ---
 
 🎓 Atualmente estou estudando **Tecnologia da Informação** e desenvolvendo minhas habilidades na área de informática.  
