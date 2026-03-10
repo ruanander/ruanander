@@ -7,6 +7,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ruanander?style=social)
 
+![GitHub forks](https://img.shields.io/github/forks/ruanander/ruanander?style=plastic)
+
 ---
 
 🎓 Atualmente estou estudando **Tecnologia da Informação** e desenvolvendo minhas habilidades na área de informática.  
