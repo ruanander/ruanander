@@ -5,8 +5,7 @@
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/ruanander?style=social)
-
+![GitHub followers](https://img.shields.io/github/followers/ruanander?style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/ruanander/ruanander?style=plastic)
 
 ---
