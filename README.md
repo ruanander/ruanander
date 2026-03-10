@@ -6,7 +6,6 @@
 ---
 <p align="center">
 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/ruanander/ruanander?style=plastic">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruanander?style=plastic">
 
 <hr>
