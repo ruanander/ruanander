@@ -1,6 +1,5 @@
-<h1 align="center"> 
-![.](banner_ruan_neon.png)
-</h1>
+ ![](banner_ruan_neon.png)
+
 <h1 align="center">Olá, Seja Bem Vindo</h1>
 <h3 align="center">Cursante do Senac, Compartilho meus estudos e a pratica deles</h3>
 # 👋 Olá, eu sou o Ruan!  
