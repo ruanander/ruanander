@@ -9,6 +9,9 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruanander?style=plastic">
 
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ruanander/ruanander?style=plastic">
+
+
 <hr>
 ---
 
